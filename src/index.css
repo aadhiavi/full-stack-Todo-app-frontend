@@ -80,7 +80,7 @@ input::-webkit-input-placeholder{
 
 .icons {
   position: absolute;
-  top: 33%;
+  top: 1.5rem;
   transform: translateY(-50%);
   right: 20px;
   display: flex;
